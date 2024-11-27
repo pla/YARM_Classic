@@ -1,0 +1,13 @@
+{
+    "name": "YARM_Classic",
+    "version": "2.8.210",
+    "factorio_version": "2.0",
+    "title": "YARM - Resource Monitor, the Classic 0.8.210",
+    "author": "Based on work by Octav 'narc' Sandulescu, drs, jorgenRe, and L0771",
+    "dependencies": [
+        "? aai-programmable-vehicles",
+        "? angelsrefining",
+        "? omnimatter"
+    ],
+    "description": "This mod helps you to keep track of your mining sites, with useful data such as the percent mined, and estimated time to depletion."
+}
