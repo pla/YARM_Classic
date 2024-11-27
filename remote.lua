@@ -1,5 +1,5 @@
 require "resmon"
-local mod_gui = require("mod-gui")
+local mod_gui = require("__core__.lualib.mod-gui")
 
 local interface = {}
 
